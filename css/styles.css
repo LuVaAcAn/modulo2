@@ -1,5 +1,4 @@
-<style>
-	*{
+*{
   box-sizing: border-box;
 }
 
@@ -202,7 +201,5 @@ p {
   .col-sm-12 {
     width: 100%;
   }
-
   
 }
-</style>
